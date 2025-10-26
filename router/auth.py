@@ -33,7 +33,7 @@ class ui_admin(BaseModel):
 
     class Config: {
         "user_demo": {
-            "username": "Divyansh123",
+            "username": "Shobhit1234",
             "password": "123"
         }
     }
